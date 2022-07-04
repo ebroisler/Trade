@@ -1,0 +1,7 @@
+C:\Users\55119\source\repos\ITrade\bin\Debug\ITrade.exe.config
+C:\Users\55119\source\repos\ITrade\bin\Debug\ITrade.exe
+C:\Users\55119\source\repos\ITrade\bin\Debug\ITrade.pdb
+C:\Users\55119\source\repos\ITrade\obj\Debug\Trade.csprojAssemblyReference.cache
+C:\Users\55119\source\repos\ITrade\obj\Debug\Trade.csproj.CoreCompileInputs.cache
+C:\Users\55119\source\repos\ITrade\obj\Debug\ITrade.exe
+C:\Users\55119\source\repos\ITrade\obj\Debug\ITrade.pdb
